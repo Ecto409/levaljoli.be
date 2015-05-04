@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery cellDimension="800" columns="6" zoomOutPerc="15" zoomInPerc="100" frameWidth="10" frameColor="0xFFFFFF" captionColor="0xFFFFFF" enableRightClickOpen="true" >
+<image>
+   <url>images/gallerie1.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie2.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie3.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie4.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie5.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie6.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie8.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie9.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie10.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie11.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie12.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie13.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie14.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie15.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie16.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie17.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie18.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie19.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie20.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie21.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+<image>
+   <url>images/gallerie22.jpg</url>
+    <caption><![CDATA[ ]]></caption>
+</image>
+
+</gallery>
